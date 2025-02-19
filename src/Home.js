@@ -29,13 +29,6 @@ function Home() {
       </Button>
       <br />
       
-      <Button 
-        variant="primary" 
-        size="lg" 
-        onClick={() => navigate('/Remove')}
-      >
-        Rimuovi
-      </Button>
     </Container>
   );
 }
